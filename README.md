@@ -1,8 +1,8 @@
 # AOU Flutter Workshop
 
-1. Dice Roll - first version [https://dartpad.dev/?id=272b9d60af197c342428e9a5d4384ffe]
+1. Dice Roll - first version [https://dartpad.dev/272b9d60af197c342428e9a5d4384ffe]
 
-2. Dice Roll - last version [https://dartpad.dev/?id=dccae3bc5ef0a551b7e2695ef2f08057]
+2. Dice Roll - last version [https://dartpad.dev/dccae3bc5ef0a551b7e2695ef2f08057]
 
 3. Login Animation with Rive [https://github.com/Youssefguba/rive_animation_workshop]
 
